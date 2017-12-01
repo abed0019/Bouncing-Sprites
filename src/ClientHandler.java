@@ -32,7 +32,7 @@ public class ClientHandler implements Runnable {
 		}
 		
 		
-	}// end of method run
+	}// end of the method run
 
 	
 	public void handleClientConnection(Socket connection){
