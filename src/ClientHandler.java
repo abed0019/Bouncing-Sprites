@@ -8,7 +8,7 @@ import java.net.SocketException;
 import server.EchoServer;
 
 /**
- * Author : Zobayed Abedin
+ * Author :Zobayed Abedin
  */
 
 public class ClientHandler implements Runnable {
@@ -27,7 +27,7 @@ public class ClientHandler implements Runnable {
 			handleClientConnection(connection);
 			
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated
 			e.printStackTrace();
 		}
 		
